@@ -1,0 +1,34 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display:inline;
+}
+
+.heading button{
+    float:right;
+    border:5px white;
+}
+
+
+#start, #status{
+font-size: 22px;
+}
+
+#sc{
+    background-color: #fc0398;
+    line-height: 2;
+    margin:0px;
+    position: fixed;
+    color: black;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+}
+
+.instruction_image{
+    display:inline-block;
+    width: 75%;
+}
